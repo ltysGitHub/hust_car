@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2015.2 (64-bit)
+# SW Build 1266856 on Fri Jun 26 16:35:25 MDT 2015
+# IP Build 1264090 on Wed Jun 24 14:22:01 MDT 2015
+# Start of session at: Tue Sep 05 16:30:58 2017
+# Process ID: 2420
+# Log file: D:/VivadoProject/led_lights/led_lights.runs/ctc8_0_synth_1/ctc8_0.vds
+# Journal file: D:/VivadoProject/led_lights/led_lights.runs/ctc8_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source ctc8_0.tcl -notrace
